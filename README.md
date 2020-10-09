@@ -5,7 +5,7 @@ My project ScorOS is currently only being developed by myself. So any big update
 
 There are multiple versions I'm building:
 - Emulated Version (Built in GB Studio)
-- Windows Application (Built In C# and Lua or JS or with the use of Visual Studio Community)
+- Windows Application (Built In C# with the use of Visual Studio Community)
 - And possibly more.
 
 I hope that when this project bursts into life that you can all enjoy using it, just as much as I enjoy creating it.
