@@ -13,3 +13,6 @@ I hope that when this project bursts into life that you can all enjoy using it, 
 ScorOS is a tool constantly in development; Do not expect early versions to be very impressive or worth your time. Any updates I make I will erase the previous version.
 My goal is to allow the most recent version to be available rather than older, outdated, and less powerful versions, If you don't like an update you can request on the new update
 for something to be changed.
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N64AT6Q)
